@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Witaj w Mirtopii!!!
 
-You can use the [editor on GitHub](https://github.com/MirusCat/Mirtopia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To mój [kanał YouTube](https://www.youtube.com/channel/UCeTvOuwLO13485K-SqRUeww).
 
 ### Markdown
 
