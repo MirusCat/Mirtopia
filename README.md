@@ -1,2 +1,2 @@
 # Mirtopia
-Pierwsza strona internetowa
+Strona internetowa Mirusa
